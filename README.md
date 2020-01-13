@@ -1,6 +1,4 @@
 # simpleProjects
-many short and simple python self made excersise for practice
+Short Python beginner level projects for coding practice repo
 
-each directory contains a new simple python code project i did to learn python
-happy coding
-
+#happy_coding
